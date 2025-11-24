@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement
 
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-310/)
@@ -72,3 +73,6 @@ If you use this code, please cite the following:
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=jwliao1209/DiffQRCoder&type=Date)](https://www.star-history.com/#jwliao1209/DiffQRCoder&Date)
+=======
+# QR
+>>>>>>> ada7ba20f7228b488951914899e38cbd3650d0f3
